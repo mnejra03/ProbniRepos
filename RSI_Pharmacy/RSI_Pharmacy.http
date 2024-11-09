@@ -1,0 +1,6 @@
+@RSI_Pharmacy_HostAddress = http://localhost:5228
+
+GET {{RSI_Pharmacy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
